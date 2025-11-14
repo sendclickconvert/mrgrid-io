@@ -52,13 +52,13 @@ MrGrid.io is a technical error code reference platform featuring in-depth, SEO-o
 Claude.ai has **66/100 domain authority**. Published artifacts rank within hours for low-competition keywords.
 
 #### Published Artifacts (claude.ai/public/artifacts/):
-- 🔗 [Error 0x80070002 Guide](#) → Links to [MrGrid.io](https://mrgrid.io/guides/error-0x80070002)
-- 🔗 [Application Not Responding Fix](#) → Links to [MrGrid.io](https://mrgrid.io/guides/application-not-responding)
-- 🔗 [JPEG Won't Open Solutions](#) → Links to [MrGrid.io](https://mrgrid.io/guides/jpeg-wont-open)
-- 🔗 [PDF Won't Open in Chrome](#) → Links to [MrGrid.io](https://mrgrid.io/guides/pdf-wont-open)
-- 🔗 [PDF Corrupted Repair Guide](#) → Links to [MrGrid.io](https://mrgrid.io/guides/pdf-corrupted)
-- 🔗 [PDF Printing Error Fixes](#) → Links to [MrGrid.io](https://mrgrid.io/guides/pdf-printing-error)
-- 🔗 [PDF Not Printing Solutions](#) → Links to [MrGrid.io](https://mrgrid.io/guides/pdf-not-printing)
+- 🔗 [Error 0x80070002 Guide](https://claude.ai/public/artifacts/ac156b07-4676-46fe-97ee-187369b758bc) → Links to [MrGrid.io](https://mrgrid.io/guides/error-0x80070002) | 8,100 searches/mo
+- 🔗 [Application Not Responding Fix](https://claude.ai/public/artifacts/61cb2bc6-2525-4b24-9d18-b8e2347c0db3) → Links to [MrGrid.io](https://mrgrid.io/guides/application-not-responding) | 6,600 searches/mo
+- 🔗 [JPEG Won't Open Solutions](https://claude.ai/public/artifacts/e05b18ab-b81e-4df0-a20c-df2a9e8229bb) → Links to [MrGrid.io](https://mrgrid.io/guides/jpeg-wont-open) | 4,400 searches/mo
+- 🔗 [PDF Won't Open in Chrome](https://claude.ai/public/artifacts/13d9cc1f-632e-4a43-ba6a-4f9b905fd6cd) → Links to [MrGrid.io](https://mrgrid.io/guides/pdf-wont-open) | 5,200 searches/mo
+- 🔗 [PDF Corrupted Repair Guide](https://claude.ai/public/artifacts/a3f7cc3b-3204-4375-b0df-a31f6844efd5) → Links to [MrGrid.io](https://mrgrid.io/guides/pdf-corrupted) | 3,800 searches/mo
+- 🔗 [PDF Printing Error Fixes](https://claude.ai/public/artifacts/bea463e8-ffcf-48a9-9fd4-0d4c427727c5) → Links to [MrGrid.io](https://mrgrid.io/guides/pdf-printing-error) | 2,900 searches/mo
+- 🔗 [PDF Not Printing Solutions](https://claude.ai/public/artifacts/4e5308e3-82ab-4d99-b107-dac32cba72a2) → Links to [MrGrid.io](https://mrgrid.io/guides/pdf-not-printing) | 4,100 searches/mo
 
 **Why this works:** Claude artifacts inherit domain authority, index in 4-24 hours, appear in Google AI Overviews.
 
