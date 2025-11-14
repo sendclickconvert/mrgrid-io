@@ -44,13 +44,50 @@ MrGrid.io is a technical error code reference platform featuring in-depth, SEO-o
 - **Omega Indexer** - Fast Google indexing
 - **GitHub API** - Version control & collaboration
 
-## 📊 SEO Strategy
+## 📊 Multi-Tier SEO Perimeter Strategy
 
-Each guide targets high-volume, low-competition keywords:
-- 2,000-4,000+ word comprehensive articles
-- Strategic affiliate link placement for monetization
+**Authority Building Architecture** - Creating a network of high-authority sites linking to MrGrid.io:
+
+### Tier 1: Claude Artifacts (Fast Rankings - 4-24 hours)
+Claude.ai has **66/100 domain authority**. Published artifacts rank within hours for low-competition keywords.
+
+#### Published Artifacts (claude.ai/public/artifacts/):
+- 🔗 [Error 0x80070002 Guide](#) → Links to [MrGrid.io](https://mrgrid.io/guides/error-0x80070002)
+- 🔗 [Application Not Responding Fix](#) → Links to [MrGrid.io](https://mrgrid.io/guides/application-not-responding)
+- 🔗 [JPEG Won't Open Solutions](#) → Links to [MrGrid.io](https://mrgrid.io/guides/jpeg-wont-open)
+- 🔗 [PDF Won't Open in Chrome](#) → Links to [MrGrid.io](https://mrgrid.io/guides/pdf-wont-open)
+- 🔗 [PDF Corrupted Repair Guide](#) → Links to [MrGrid.io](https://mrgrid.io/guides/pdf-corrupted)
+- 🔗 [PDF Printing Error Fixes](#) → Links to [MrGrid.io](https://mrgrid.io/guides/pdf-printing-error)
+- 🔗 [PDF Not Printing Solutions](#) → Links to [MrGrid.io](https://mrgrid.io/guides/pdf-not-printing)
+
+**Why this works:** Claude artifacts inherit domain authority, index in 4-24 hours, appear in Google AI Overviews.
+
+### Tier 2: GitHub Repository (Authority Feeder)
+This repository provides:
+- Technical documentation and code examples
+- Backlinks to both Claude Artifacts and MrGrid.io
+- Open-source credibility signals
+- Developer community engagement
+
+### Tier 3: MrGrid.io (Primary Conversion Site)
+Main destination with:
+- 2,000-4,000+ word SEO-optimized guides
+- 3-CTA affiliate conversion strategy (intro, mid-article, conclusion)
 - Terminal-inspired design for developer audience
 - Structured data & Open Graph optimization
+
+**Traffic Flow:**
+```
+Google Search Results
+        ↓
+Claude Artifact (ranks fast) ──→ MrGrid.io ←── GitHub Repo
+        ↓                             ↓
+   Backlink to MrGrid            Conversion to
+        ↓                        bit.ly/ask-a-tech
+   Authority Signal                (Affiliate $$)
+```
+
+**Combined Search Volume:** 35,100+ monthly searches across all guides
 
 ## 🔧 Key Features
 
